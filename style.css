@@ -1,0 +1,28 @@
+h1 {
+    font-size: 2rem;
+    text-align: center;
+}
+.container {
+    display: flex;
+    width: 80%;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+table {
+    align-items: center;
+}
+th {
+    border-bottom: black solid 0.1rem;
+    border-radius: 0.1rem;
+    margin: 0;
+}
+td {
+    border-bottom: black solid 0.1rem;
+    border-radius: 0.1rem;
+    margin: 0;
+}
+button {
+    border-radius: 0.5rem;
+}
+
